@@ -1,7 +1,7 @@
 
 ![Logotipo da UAN](imgs/horizontal.svg)
 
-<h1 style="text-align: center;">Gabinete de Tecnologia da informação e Comunicação</h1>
+<h1 style="text-align: center;">Gabinete de Tecnologia de informação e Comunicação</h1>
 
 
 
